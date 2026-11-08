@@ -1,0 +1,30 @@
+# Operating system metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Temporary and log files
+*.tmp
+*.temp
+*.log
+*.bak
+
+# Local editor/workspace preferences
+.vscode/
+.idea/
+*.suo
+*.user
+
+# Local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Dependencies and build output (not used by this static project)
+node_modules/
+dist/
+build/
+coverage/

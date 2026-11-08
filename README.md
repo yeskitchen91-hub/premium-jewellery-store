@@ -107,3 +107,7 @@ Replace `YOUR-USERNAME` with the GitHub account name and use the repository URL 
 This repository is structured for a static host such as GitHub Pages. GitHub Pages can be enabled later from the repository's **Settings → Pages** after the upload; no deployment has been configured here. The site does not require a domain to work on a host's provided URL.
 
 A custom domain can be considered later, after it is purchased. Domain connection would require adding the domain in the host's settings and then setting the DNS records supplied by that host. No domain is included or hardcoded in this project.
+
+## Updated visual direction
+
+The homepage now uses a generated plum, rose and champagne campaign visual at `images/banners/heerora-editorial-campaign-v2.png`. It is a temporary imitation-jewellery mockup. The earlier campaign mockup remains the temporary image used by sample product cards. The five owner-provided website references informed the floating pill navigation, editorial headline scale, alternating dark/light sections, glass-like campaign panel, and layered product staging; no reference website assets or brand marks were copied. The palette remains provisional.

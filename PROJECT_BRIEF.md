@@ -168,3 +168,14 @@ Wishlist, coupons, reviews and ratings, order tracking, and promotional features
 ---
 
 **Status:** Discovery brief approved by the owner. This document captures confirmed information separately from recommendations and undecided items. It does not authorize website development, payment setup, purchases, or deployment.
+
+## Design reference addendum (owner-provided)
+
+The owner later provided five visual references. Use them as inspiration, not as layouts or assets to copy:
+
+- Reference 1: floating pill navigation, translucent surfaces, and composed neutral framing.
+- Reference 2: dark editorial sections, large confident headlines, and dramatic colour transitions.
+- References 3 and 4: a dominant suspended product, dimensional perspective, atmospheric light, and immersive product staging.
+- Reference 5: oversized type, asymmetric product placement, and bold gradient colour.
+
+For HeerOra, combine those principles with the confirmed modern-minimal identity and the existing gold-on-ivory logo. The website palette remains provisional; the current plum, rose, champagne, and ivory treatment is a design exploration, not a separately approved final colour system. Keep sample jewellery and pricing clearly identified as temporary, and do not imply unconfirmed materials or specifications.
